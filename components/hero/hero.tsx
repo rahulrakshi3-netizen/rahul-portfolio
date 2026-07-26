@@ -4,8 +4,8 @@ import { HeroCtas } from "./hero-ctas";
 import { FadeIn, ScaleUnblur } from "@/components/ui/motion-primitives";
 import { PortraitMorph } from "./portrait-morph";
 
-const PORTRAIT_SRC = "/rahul.webp";
-const PORTRAIT_HOVER_SRC = "/rahul_wave.webp";
+const PORTRAIT_SRC = "/img1.jpeg";
+const PORTRAIT_HOVER_SRC = "/img2.jpeg";
 
 export function Hero(): ReactNode {
   return (
