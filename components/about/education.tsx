@@ -11,15 +11,21 @@ type Entry = {
 
 const ENTRIES: Entry[] = [
   {
+    school: "St. Francis College",
+    degree: "BCA, 3rd Year (5th Semester)",
+    period: "2023 – Present",
+    icon: GraduationCap,
+  },
+  {
     school: "St. Francis PU College",
     degree: "CEBA (PUC)",
     period: "2021 – 2023",
     icon: GraduationCap,
   },
   {
-    school: "St. Francis College",
-    degree: "BCA, 3rd Year (5th Semester)",
-    period: "2023 – Present",
+    school: "St. Joseph High School",
+    degree: "High School",
+    period: "2019 – 2021",
     icon: GraduationCap,
   },
   {
